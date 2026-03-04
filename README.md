@@ -3,8 +3,8 @@
 Implements CFG-Ctrl / SMC-CFG (Sliding Mode Control CFG) as a ComfyUI GUIDER.
 
 References:
-- Paper: "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance"
-- Official repo: hanyang-21/CFG-Ctrl
+- Paper: ["CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance"](https://arxiv.org/pdf/2603.03281)
+- Official repo: [hanyang-21/CFG-Ctrl](https://github.com/hanyang-21/CFG-Ctrl)
 
 ## Install
 Place this folder into:
