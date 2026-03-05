@@ -1,0 +1,17 @@
+[project]
+name = "cfg-ctrl"
+description = "A ComfyUI custom node implementing CFG-Ctrl / SMC-CFG as a GUIDER."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/xmarre/ComfyUI-CFG-Ctrl"
+Documentation = "https://github.com/xmarre/ComfyUI-CFG-Ctrl#readme"
+"Bug Tracker" = "https://github.com/xmarre/ComfyUI-CFG-Ctrl/issues"
+
+[tool.comfy]
+PublisherId = "xmarre"
+DisplayName = "ComfyUI-CFG-Ctrl"
+Icon = ""
+includes = []
+# "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
